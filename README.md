@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2020/08/11/13/40/flowers-5479974_1280.jpg" alt="BDBOTS Logo" width="200">
+  <img src="https://raw.githubusercontent.com/iSabbir/Bdbots-Userbot/main/flowers-5479974_1280.jpg" alt="BDBOTS Logo" width="200">
 </p>
 
 <h1 align="center">BDBOTS Userbot</h1>
